@@ -4,3 +4,17 @@
   margin: auto;
   margin-top: 10%;
 }
+
+.email_pic {
+  width: 60%;
+  display: block;
+  margin: auto;
+  margin-top: 1.8%;
+}
+
+.number_pic {
+  width: 40%;
+  display: block;
+  margin: auto;
+  margin-top: 1.5%;
+}
